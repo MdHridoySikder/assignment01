@@ -1,0 +1,91 @@
+/* header */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: url('Hero-bg.png');
+  height: 100vh;
+}
+
+.font {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  padding: 50px;
+  position: relative;
+}
+
+div .top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 24px;
+  color: #4E47FF;
+}
+
+.sig-btn {
+  padding: 10px 20px;
+  background-color: #4E47FF;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.cool-dark {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.cool-dark h1 {
+  font-size: 40px;
+  font-weight: 600;
+  color: #252432;
+  line-height: 1.4;
+  margin-bottom: 40px;
+}
+
+.btn {
+  padding: 10px 25px;
+  background-color: #4E47FF;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  cursor: pointer;
+}
+/* main */
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    margin: 70px;
+}
+.text{
+    flex: 1;
+    margin-left:70px ;
+}
+.image-box{
+    width: 250px;
+    height: auto;
+    border-radius:15%;
+    margin-right: 70px;
+}
+.o1{
+    color: #252432;
+
+}
+.text1{
+    color: #252432;
+
+}
