@@ -104,9 +104,9 @@ div .top {
 }
 /* Joined Thousands of Productive Users */
 .st-container{
-    background-color:#7271a5;
-    padding: 30px;
-    border-radius: 20px;
+    background-color:#9ebef2;
+    padding: 40px;
+    border-radius: 12px;
     max-width: 1000px;
     box-shadow: 0 4px 10px rgba(0 0 0 0.5);
     text-align: center;
@@ -135,7 +135,7 @@ margin-bottom: 100px;
     
 }
 .first-num{
-    font-size: 35px;
+    font-size: 60px;
     color: #4E47FF;
     font-weight: bold;
     display: block;
@@ -232,10 +232,15 @@ align-items: flex-start;
 padding: 30px;
 
 }
+.label{
+  display: block;
+  text-align: left;
+  
+}
 
 .form-title{
 
-    width: 50%;
+    width: 75%;
     align-items:;
     
     margin: auto;
@@ -249,8 +254,18 @@ form input, form textarea{
     width: 100%;
     padding: 15px;
     margin-bottom: 10px;
+}
+.sig-btn2{
+padding: 10px 200px;
+  background-color: #4E47FF;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
 
 }
+
 
 /* footer */
 a{display: flex;
