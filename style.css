@@ -107,7 +107,7 @@ div .top {
 }
 /* Joined Thousands of Productive Users */
 .st-container{
-    background-color:#9ebef2;
+    background-color:#4d47ff1f;
     padding: 40px;
     border-radius: 12px;
     max-width: 1000px;
@@ -120,10 +120,10 @@ margin-bottom: 100px;
 
 }
 .st-container h2{
-    font-size: 24%;
     margin-bottom: 30px;
     font-weight: bold;
     text-align: center;
+    font-size: 38px;
     
 
 }
@@ -310,7 +310,7 @@ margin: 0px;
   background-color:#3d3b596b;
   color: #4E47FF;
   scale: 1.04;
-  box-shadow: 0px 0px 35px rgba(50, 70, 77, 0.466);
+  box-shadow: 0px 0px 35px rgba(102, 124, 175, 0.466);
 }
 
 
