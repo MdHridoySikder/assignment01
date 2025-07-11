@@ -44,6 +44,7 @@ div .top {
 .cool-dark {
   text-align: center;
   padding-top: 20px;
+  margin: auto;
 }
 
 .cool-dark h1 {
@@ -70,6 +71,8 @@ div .top {
     align-items: center;
     padding: 40px;
     margin: 70px;
+    
+    color: #FFFFFF;
 }
 .text{
     flex: 1;
@@ -87,5 +90,185 @@ div .top {
 }
 .text1{
     color: #252432;
+
+}
+/* Joined Thousands of Productive Users */
+.st-container{
+    background-color:#7271a5;
+    padding: 30px;
+    border-radius: 20px;
+    max-width: 1000px;
+    box-shadow: 0 4px 10px rgba(0 0 0 0.5);
+    text-align: center;
+margin: 0 auto;
+margin-bottom: 100px;
+    
+    
+
+}
+.st-container h2{
+    font-size: 24%;
+    margin-bottom: 30px;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+.only-box{
+    margin: 10px;
+}
+.all-box{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.first-num{
+    font-size: 35px;
+    color: #4E47FF;
+    font-weight: bold;
+    display: block;
+}
+.first2-num{
+    font-size: 16px;
+    color: #252432;
+}
+/* card section */
+
+.allbox{
+  display: flex;
+  justify-content: center;
+}
+body {
+  font-family: sans-serif;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.box3-card {
+
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 20px;
+     width: 250px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+.box3-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+
+
+}
+
+
+
+.stars img {
+  width: 20px;
+  height: 20px;
+  margin-right: 3px;
+}
+
+.box3-title {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+.box3-text {
+  color: #555;
+  font-size: 0.95em;
+  margin-bottom: 20px;
+}
+
+.aputa {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.name {
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.date {
+  font-size: 0.8em;
+  color: gray;
+}
+
+/* Get in Touch (form) */
+
+.form-container{
+    display: flex;
+    margin: 80px;
+    justify-content: space-between;
+align-items: flex-start;
+padding: 30px;
+
+}
+
+.form-title{
+
+    width: 50%;
+    align-items:;
+    
+    margin: auto;
+
+}
+
+.form-box{
+    width: 65%;
+}
+form input, form textarea{
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+
+}
+
+/* footer */
+a{display: flex;
+    color: #8987A1;
+    text-decoration: none;
+}
+.line ul{
+display:flex ;
+list-style: none;
+padding: 0px;
+margin: 0px;
+}
+.line li{
+    margin-right: 20px;
+    
+
+}
+.all-container *{
+    background-color:#FFFFFF ;
+    padding: 8px 0;
+    
+
+}
+
+.line{
+    display: flex;
+    color: #8987A1;
+    justify-content: center;
+    height: px;
 
 }
